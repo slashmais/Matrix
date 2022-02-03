@@ -1,2 +1,2 @@
-# Matrix
-A Matrix-template usable for constructing Neural Nets, and normal uses
+# NNMatrix
+A matrix-template usable for constructing Neural Networks, and other normal uses
